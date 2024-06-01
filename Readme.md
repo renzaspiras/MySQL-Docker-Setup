@@ -1,4 +1,4 @@
-# MySQL Docker Guide
+# MySQL Docker Simplified Guide
 
 ## Step 1: Pulling the Mysql Image
 
